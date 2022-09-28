@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahnaf Iqbal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ahnaf Iqbal</h1>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -9,15 +9,15 @@
 
 ## About me
 
-I'm Ahnaf Iqbal. A Crypto Enthusiast from the another planet. Also founder of [One Access BD](https://www.facebook.com/oneaccessbd) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Ahnaf Iqbal. A Crypto Enthusiast from the another planet. Also founder of [One Access BD](https://www.facebook.com/oneaccessbd) and also Co-founder of [One Access Agency](https://gdgmad.com/). Community is :heart:. Tech blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+I ocassionally blog and tweet about crypto and other stuff.  
 
 
 ## Things I am passionate about
 
-- Crypto :coin:
-- Open source :octocat:
+- Cryptocurrency :coin:
+- Business :business:
 
 ## Get in touch :coffee:
 
