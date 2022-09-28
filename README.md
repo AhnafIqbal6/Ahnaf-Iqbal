@@ -9,15 +9,15 @@
 
 ## About me
 
-I'm Ahnaf Iqbal. A Crypto Enthusiast from the another planet. Also founder of [One Access BD](https://www.facebook.com/oneaccessbd) and also Co-founder of [One Access Agency](https://gdgmad.com/). Community is :heart:. Tech blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Ahnaf Iqbal. A Crypto Enthusiast from the another planet. Also founder of [One Access BD](https://www.facebook.com/oneaccessbd) and also Co-founder of [One Access Agency](https://oneaccessbd.com/). Community is :heart:. Tech blooded, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about crypto and other stuff.  
 
 
 ## Things I am passionate about
 
-- Cryptocurrency :coin:
-- Business :business:
+- Cryptocurrency 🪙
+- Business 🧔‍♂️
 
 ## Get in touch :coffee:
 
