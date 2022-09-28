@@ -5,6 +5,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/ahnaf-iqbal/count.svg)
 </p>
 
 ## About me
@@ -22,5 +23,5 @@ I ocassionally blog and tweet about crypto and other stuff.
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Crypto related things and tech in general on [Twitter](https://twitter.com/AhnafIqbal12/).
-- Your future life savior :stuck_out_tongue: on [Medium](https://www.facebook.com/Ahnafiqbal6/).
+- Your future life savior :stuck_out_tongue: on [Messenger](https://www.facebook.com/Ahnafiqbal6/).
 - And of course GitHub you're already on (Recursion).
