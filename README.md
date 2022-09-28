@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ahnaf Iqbal</h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/ahnaf-iqbal/Ahnaf-Iqbal/main/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
