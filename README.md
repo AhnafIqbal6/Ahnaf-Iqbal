@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ahnaf Iqbal</h1>
+<h1 align="center">As-salamu Alaykum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ahnaf Iqbal</h1>
 
 <img src="https://raw.githubusercontent.com/ahnaf-iqbal/Ahnaf-Iqbal/main/banner.png" alt="Hello world">
 
